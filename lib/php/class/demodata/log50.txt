@@ -1,0 +1,56 @@
+1399230120,,certifikat_x/IPadress:4209 VERIFY OK: depth=1, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399230120,,certifikat_x/IPadress:4209 NOTE: --mute triggered...
+1399232125,,certifikat_x/IPadress:4209 34 variation(s) on previous 20 message(s) suppressed by --mute
+1399232125,I,certifikat_x/IPadress:4209 [certifikat_x] Inactivity timeout (--ping-restart), restarting
+1399232125,,TCP/UDP: Closing socket
+1399232451,,certifikat_6/IPadress:63378 CRL CHECK OK: /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399232451,,certifikat_6/IPadress:63378 VERIFY OK: depth=1, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399232451,,certifikat_6/IPadress:63378 CRL CHECK OK: /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./OU=server_win2003/CN=certifikat_6/emailAddress=e@mail.com
+1399232451,,certifikat_6/IPadress:63378 VERIFY OK: depth=0, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./OU=server_win2003/CN=certifikat_6/emailAddress=e@mail.com
+1399232451,,certifikat_6/IPadress:63378 Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key
+1399232451,,certifikat_6/IPadress:63378 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+1399232451,,certifikat_6/IPadress:63378 Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key
+1399232451,,certifikat_6/IPadress:63378 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+1399232451,,certifikat_6/IPadress:63378 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 2048 bit RSA
+1399233278,,certifikat_2/IPadress:52365 CRL CHECK OK: /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399233278,,certifikat_2/IPadress:52365 VERIFY OK: depth=1, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399233278,,certifikat_2/IPadress:52365 CRL CHECK OK: /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./OU=moje_doma_NTB/CN=certifikat_2/emailAddress=e@mail.com
+1399233278,,certifikat_2/IPadress:52365 VERIFY OK: depth=0, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./OU=moje_doma_NTB/CN=certifikat_2/emailAddress=e@mail.com
+1399233279,,certifikat_2/IPadress:52365 Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key
+1399233279,,certifikat_2/IPadress:52365 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+1399233279,,certifikat_2/IPadress:52365 Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key
+1399233279,,certifikat_2/IPadress:52365 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+1399233279,,certifikat_2/IPadress:52365 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 2048 bit RSA
+1399233502,,certifikat_3/IPadress:51249 CRL CHECK OK: /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399233502,,certifikat_3/IPadress:51249 VERIFY OK: depth=1, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399233502,,certifikat_3/IPadress:51249 NOTE: --mute triggered...
+1399234982,,certifikat_2/IPadress:52365 25 variation(s) on previous 20 message(s) suppressed by --mute
+1399234982,I,certifikat_2/IPadress:52365 [certifikat_2] Inactivity timeout (--ping-restart), restarting
+1399234982,,TCP/UDP: Closing socket
+1399235207,,certifikat_4/IPadress:1025 CRL CHECK OK: /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399235207,,certifikat_4/IPadress:1025 VERIFY OK: depth=1, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399235207,,certifikat_4/IPadress:1025 CRL CHECK OK: /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./OU=Office/CN=certifikat_4/emailAddress=e@mail.com
+1399235207,,certifikat_4/IPadress:1025 VERIFY OK: depth=0, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./OU=Office/CN=certifikat_4/emailAddress=e@mail.com
+1399235207,,certifikat_4/IPadress:1025 Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key
+1399235207,,certifikat_4/IPadress:1025 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+1399235207,,certifikat_4/IPadress:1025 Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key
+1399235207,,certifikat_4/IPadress:1025 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+1399235207,,certifikat_4/IPadress:1025 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 2048 bit RSA
+1399235479,,certifikat_5/IPadress:49155 CRL CHECK OK: /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399235479,,certifikat_5/IPadress:49155 VERIFY OK: depth=1, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399235479,,certifikat_5/IPadress:49155 CRL CHECK OK: /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./OU=Office/CN=certifikat_5/emailAddress=e@mail.com
+1399235479,,certifikat_5/IPadress:49155 VERIFY OK: depth=0, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./OU=Office/CN=certifikat_5/emailAddress=e@mail.com
+1399235479,,certifikat_5/IPadress:49155 Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key
+1399235479,,certifikat_5/IPadress:49155 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+1399235479,,certifikat_5/IPadress:49155 Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key
+1399235479,,certifikat_5/IPadress:49155 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+1399235479,,certifikat_5/IPadress:49155 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 2048 bit RSA
+1399236051,,certifikat_6/IPadress:63378 CRL CHECK OK: /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399236051,,certifikat_6/IPadress:63378 VERIFY OK: depth=1, /C=CZ/ST=CZ/L=mesto/O=firma_spol.s_r.o./emailAddress=e@mail.com
+1399236051,,certifikat_6/IPadress:63378 NOTE: --mute triggered...
+1399239052,,DEMO row : some standart message
+1399236053,I,DEMO row : some inforation message
+1399236054,F,DEMO row : some fatal error message
+1399236351,N,DEMO row : some non-fatal error message
+1399237051,W,DEMO row : some warning message
+1399238051,D,DEMO row : some debug message
