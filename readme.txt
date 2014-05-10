@@ -23,4 +23,5 @@ pass : TeSter
 
 
 
-more at http://www.dvestezar.cz/me-programy/50-webbased-openvpn-monitor.html
+More at http://www.dvestezar.cz/me-programy/50-webbased-openvpn-monitor.html
+OpenVPN Management at http://openvpn.net/index.php/open-source/documentation/miscellaneous/79-management-interface.html
