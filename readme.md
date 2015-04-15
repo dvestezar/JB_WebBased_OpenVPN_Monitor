@@ -1,4 +1,4 @@
-WebBased OpenVPN Monitor
+#WebBased OpenVPN Monitor
 
 Web-based OpenVPN monitor - monitoring active connection to server by OpenVPN Management
 
@@ -12,7 +12,7 @@ Web-based OpenVPN monitor - monitoring active connection to server by OpenVPN Ma
 - Can be localized (english need some work of translation)
 
 
-Preview
+*Preview*
 
 http://ovpnmonitor.dvestezar.cz
 
